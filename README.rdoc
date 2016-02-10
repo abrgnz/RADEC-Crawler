@@ -4,7 +4,7 @@ Crawls the radec online store to get all the available spares from a specified c
 
 
 === Usage
-* Specified car to crawl in seed.rb
+* Choose cars to crawl in seed.rb
 
 * rake db:seed
 
